@@ -19,6 +19,8 @@ Video link: https://youtu.be/SuoXpwKDSis
 * **Lighting:** Original CCFL backlight tube and inverter from a vintage portable TV.
 * **Switching:** MOSFET circuit to allow the ESP32 to toggle the high-voltage lamp.
 
+![schematic](/schematic.jpg)
+
 ## 💻 Software & Libraries
 This project is built using the **Arduino IDE**. Ensure you have the following libraries installed:
 * `Adafruit_ST7789` (Screen control).
