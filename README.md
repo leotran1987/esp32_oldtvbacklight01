@@ -1,6 +1,9 @@
 # ESP32_OldTVBacklight01
 
 **ESP32_OldTVBacklight01** is a Cyberpunk-inspired smart controller that resurrects a 30-year-old portable TV backlight. This project transforms "e-waste" into a functional piece of tech art, featuring a hacker-style UI and internet-connected capabilities.
+![Cyberpunk Lamp Thumbnail](/thumbnail.jpg)
+
+Video link: https://youtu.be/SuoXpwKDSis
 
 ## 🚀 Features
 * **1,000V Power Control:** Safely harvesting and switching the original high-voltage CCFL inverter system using a MOSFET circuit.
